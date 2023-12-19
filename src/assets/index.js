@@ -20,6 +20,8 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import Firebase from './tech/Firebase.png'
+import PostgreSQL from './tech/PostgreSQL.png'
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -60,5 +62,7 @@ export {
   carrent,
   jobit,
   tripguide,
-  portfolio
+  portfolio,
+  Firebase,
+  PostgreSQL
 };
